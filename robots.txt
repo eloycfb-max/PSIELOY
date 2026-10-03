@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Busca com IA — autorização explícita (controles independentes)
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://seudominio.com.br/sitemap.xml
